@@ -2,6 +2,8 @@
 
 Sela is an Indonesian-language frontend portfolio project: a responsive, accessible room-booking flow from room selection to a local confirmation. It is an **interactive concept, not a real venue or booking service**.
 
+[Open the live demo](https://sela-booking-ui.vercel.app/) · [View CI checks](https://github.com/indraaryaLabs/sela-booking-ui/actions)
+
 ![Sela desktop hero](screenshots/desktop-hero.png)
 
 The [booking view](screenshots/desktop-booking.png) and [mobile view](screenshots/mobile-hero.png) show the same interface at different sizes.
